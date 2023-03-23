@@ -75,6 +75,10 @@ body {
   background-image: url("../images/whatsapp@2x.png");
 }
 
+.github {
+  background-image: url(../images/github@2x.png);
+}
+
 .mid-container {
   background-color: blue;
 }
